@@ -5,3 +5,4 @@ read -s password
 echo "Welcome to the zelle application"
 echo "I just added this code"
 echo "More adjustments made"
+read
